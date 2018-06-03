@@ -4,4 +4,6 @@ The main motive is to create an interactive interface that helps the students of
 This is the project which is being deployed. We will get exposure to minute detailing of project development life cycle. We will get the chance to learn new technologies. Some practical scenario of understanding user requirements which one needs to understand and design the application, this is a good addon.
 
 ## High Level Design of Student App
-
+![image](https://user-images.githubusercontent.com/30344955/40889853-27b4d882-678b-11e8-9d71-d130d5714fb8.png)
+## Demo of the Student application-
+### Login Page-
