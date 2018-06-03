@@ -7,3 +7,6 @@ This is the project which is being deployed. We will get exposure to minute deta
 ![image](https://user-images.githubusercontent.com/30344955/40889853-27b4d882-678b-11e8-9d71-d130d5714fb8.png)
 ## Demo of the Student application-
 ### Login Page-
+![image](https://user-images.githubusercontent.com/30344955/40889885-a5e8de24-678b-11e8-8bc1-f6b9779d5927.png)
+After login you will be redirected to playlist screen.
+### Playlist Screen
